@@ -1,0 +1,16 @@
+{
+  "name": "zentsu",
+  "version": "1.0.0",
+  "description": "Zentsu is always in developpement so he is not finish but you can use he (Zentsu est toujours en developpement donc il est pas finit mais tu peut toujour l'utiliser)",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-hello"
+  },
+  "author": "Theo/Poketout",
+  "license": "ISC"
+}
